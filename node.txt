@@ -1,5 +1,4 @@
 trojan://orutrojan@oru.9521.ml:443#OracleUbuntu
-trojan://vdstrojan@vds.lechen.ml:443#Hostvds
 trojan://krtrojan@kr.lechen.ml:443#Hostyun
 trojan://tctrojan@tc.9521.ml:443#Tabby
 vmess://eyJhZGQiOiJvcmMubGVjaGVuLm1sIiwiYWlkIjoiNjQiLCJob3N0IjoiIiwiaWQiOiIxMGM4Y2JhYS01ZDc1LTQ2YmEtOWY4YS0zNThkNzhlM2RmYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb3JjIiwicG9ydCI6IjQ0MyIsInBzIjoiT1JDIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
