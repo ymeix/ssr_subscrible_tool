@@ -1,3 +1,4 @@
+trojan://ormtrojan@orm.lechen.ml:443#OracleV2ray
 trojan://orytrojan@ory.122787.ml:443#OracleYoon
 trojan://virtrojan@vir.9521.ml:443#Virmach
 trojan://krtrojan@kr.lechen.ml:443#Hostyun
